@@ -19,7 +19,7 @@ function Topbar() {
             <ul className="navbar-nav ml-auto">
                 <li className="nav-item ">
                     <a className="nav-link" href="...">
-                        <span className="mr-3" style={{ color: "#aaa" }}>Syed Abdul Rahman</span>
+                        <span className="mr-3" style={{ color: "#aaa" }}>Sathish kumar</span>
                         <img className="img-profile rounded-circle"
                             src="https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652_1280.png" alt="profile" />
                     </a>
